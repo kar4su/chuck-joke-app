@@ -39,6 +39,7 @@
             <scope>test</scope>
         </dependency>
         <dependency>
+            <!-- https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator -->
             <groupId>guru.springframework</groupId>
             <artifactId>chuck-norris-for-actuator</artifactId>
             <version>0.0.2</version>
